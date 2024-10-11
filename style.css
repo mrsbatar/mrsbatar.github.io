@@ -12,3 +12,11 @@ body {
 section {
   padding-top: 5rem;
 }
+
+.SDM-pelatihan {
+  width: 100%;
+}
+
+#SDM .row > * {
+  padding: 0;
+}
